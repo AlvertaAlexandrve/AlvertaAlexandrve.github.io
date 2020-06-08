@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://AlvertaAlexandrve.github.io/sitemap.xml.gz
